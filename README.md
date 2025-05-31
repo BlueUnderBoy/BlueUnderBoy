@@ -10,7 +10,7 @@ Software Engineering
 Combining law and tech to manifest ground-breaking innovation. 
 
 ### Languages/Tools I am familiar with: 🪛
-<img src="/python.png" style="width:50px">
+<img src="/python.png" style="width:200px">
 <img src="">
 <!--
 **BlueUnderBoy/BlueUnderBoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
