@@ -10,8 +10,15 @@ Software Engineering
 Combining law and tech to manifest ground-breaking innovation. 
 
 ### Languages/Tools I am familiar with: 🪛
-<img src="/python.png" style="width:150px; border-radius:50px;">
-<img src="">
+<img src="/python.png" style="width:150px">
+<img src="/javascript.png" style="width:150px">
+<img src="/ruby.png" style="width:150px">
+<img src="/rails.png" style="width:150px">
+<img src="/flask.png" style="width:150px">
+<img src="/mysql.png" style="width:150px">
+<img src="/postgresql.png" style="width:150px">
+<img src="/azure.png" style="width:150px">
+<img src="/aws.png" style="width:150px">
 <!--
 **BlueUnderBoy/BlueUnderBoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
