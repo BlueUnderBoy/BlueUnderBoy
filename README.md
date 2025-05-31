@@ -10,7 +10,7 @@ Software Engineering
 Combining law and tech to manifest ground-breaking innovation. 
 
 ### Languages/Tools I am familiar with: 🪛
-<img src="/python.png" style="width:150px, height: 30px;">
+<img src="/python.png" style="width:150px, height: 10px;">
 <img src="/javascript.png" style="width:150px">
 <img src="/ruby.png" style="width:150px">
 <img src="/rails.png" style="width:150px">
