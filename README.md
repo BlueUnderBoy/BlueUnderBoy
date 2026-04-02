@@ -7,7 +7,7 @@ Gameboy Advance SP
 
 Software Engineering
 
-Combining law and tech to manifest ground-breaking innovation. 
+Combining finance and tech to manifest ground-breaking innovation. 
 
 ### Languages/Tools I am familiar with: 🪛
 <img src="python2.png" style="width:150px; height: 40px; border-radius: 10px;"> <img src="javascript2.png" style="width:150px; height: 40px; border-radius: 10px;">
